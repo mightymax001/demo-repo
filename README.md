@@ -10,3 +10,6 @@ even more text
 
 
 aaaaaaaaaaa
+
+
+readme update and push from terminal
